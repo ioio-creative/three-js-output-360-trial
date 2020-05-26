@@ -1,1 +1,1 @@
-npx simple-server public 3000
+npx simple-server . 3000

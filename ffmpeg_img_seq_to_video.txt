@@ -1,0 +1,1 @@
+ffmpeg -i %07d.jpg video.mp4
